@@ -1,6 +1,6 @@
-# CAM Analysis for ECG Data
+# Analysis for ECG Data
 
-This repository contains Python code, primarily within a Jupyter Notebook (`paper.ipynb`), for analyzing Class Activation Maps (CAM) from ECG data. The analysis involves loading pre-processed data, calculating CAM templates, and generating plots for different models/datasets identified as "Baseline", "RR model", and "P-Wave model".
+This repository contains Python code, primarily within a Jupyter Notebook (`paper.ipynb`), for analyzing ECG data.
 
 ## Prerequisites
 
